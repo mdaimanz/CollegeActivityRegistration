@@ -2,10 +2,10 @@
 
 //Step 1: Connecting to a Database using MySQLi API (Object-Oriented approach)
 // modify these variables for your installation
-$databaseHost = 'localhost';
-$databaseName = 'project';
-$databaseUsername = 'root';
-$databasePassword = '';
+$databaseHost = 'tviw6wn55xwxejwj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
+$databaseName = 'ly2fqpu6p3clcbqm';
+$databaseUsername = 'tddu6ze8y1f7vgek';
+$databasePassword = 'ftiiy83wmh1d7jgs';
 
 
 //MySQLi Object-Oriented approach
