@@ -17,7 +17,8 @@ Muhammad Aiman - Manage Account Page (Front-end and Back-end), Navigation Bar an
 
 Nik Mohamad Idhan - Login & Registration Feature
 
-Preview of page that I made:
+
+Preview of page that I have made:
 
 Manage Account Page: https://manage-account-preview.herokuapp.com/html/manage.html
 
