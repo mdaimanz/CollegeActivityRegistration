@@ -17,8 +17,8 @@
             //validate member exists or not by checking email and matric id
             //MySQLi Object-oriented approach
             //Step 3. Execute the SQL query to
-            $sql = "SELECT matricNo FROM student WHERE matricNo='".$matricNo."'";
-            $sql2 = "SELECT email FROM student WHERE email='".$email."'";
+            $sql = "SELECT matricNo FROM Student WHERE matricNo='".$matricNo."'";
+            $sql2 = "SELECT email FROM Student WHERE email='".$email."'";
             $result = $conn->query($sql);
             $result2 = $conn->query($sql2);
             
@@ -41,7 +41,7 @@
                 $passwordh = md5(md5($password));
                 $defaultprofilepicPath = "https://drive.google.com/uc?id=1_IkB8vTcFAAs-0zgapZeCRd99H3_tfaX
 				&export=download";
-                $stmt = $conn->prepare("INSERT INTO student(matricNo,fullname,email,password,profilepicPath) VALUES (?, ?, ?, ?, ?)");
+                $stmt = $conn->prepare("INSERT INTO Student(matricNo,fullname,email,password,profilepicPath) VALUES (?, ?, ?, ?, ?)");
                 // $passwordh = password_hash($password, PASSWORD_DEFAULT);
                 $stmt->bind_param("sssss", $matricNo, $fullname, $email, $passwordh, $defaultprofilepicPath);
                 
