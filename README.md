@@ -1,6 +1,8 @@
 # CollegeActivityRegistration
 Website for College Activity Registration System
 
+The system is intended to help the students at the residential college to register new account, view and register for the activities organised by the residential college, report an issue found at residential college and order food.
+
 The deployment of this site is still in progress. Previously, this site testing is made in local server using XAMPP.
 
 Made by:
