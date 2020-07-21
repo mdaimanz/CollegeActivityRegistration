@@ -5,7 +5,7 @@
 $databaseHost = 'tviw6wn55xwxejwj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
 $databaseName = 'ly2fqpu6p3clcbqm';
 $databaseUsername = 'tddu6ze8y1f7vgek';
-$databasePassword = 'ftiiy83wmh1d7jgs';
+$databasePassword = 'ddecl4p6qh5liq0k';
 
 
 //MySQLi Object-Oriented approach
