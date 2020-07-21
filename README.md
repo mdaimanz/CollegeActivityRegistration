@@ -16,3 +16,9 @@ Hasya Imanina - Food Order Page
 Muhammad Aiman - Manage Account Page (Front-end and Back-end), Navigation Bar and Home Page
 
 Nik Mohamad Idhan - Login & Registration Feature
+
+Preview of page that I made:
+
+Manage Account Page: https://manage-account-preview.herokuapp.com/html/manage.html
+
+Home Page: https://manage-account-preview.herokuapp.com/html/home.html
